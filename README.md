@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giandevroot" alt="giandevroot" /></a> </p>
 
-- 📝 I regularly write articles on [https://giandevroot.github.io/](https://giandevroot.github.io/)
+- 👨‍💻 All of my projects are available at [https://giandevroot.github.io/](https://giandevroot.github.io/)
 - 📄 Know about my experiences [https://giandevroot.github.io/](https://giandevroot.github.io/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
